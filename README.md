@@ -68,6 +68,7 @@
   <li>Developed a B2B portal for local vendors to manage taxi bookings, improving accessibility and operational efficiency.</li>
   <li>Implemented security measures including intrusion detection systems and encryption protocols, successfully mitigating a hacking incident.</li>
   <li>Improved SEO performance through dynamic page generation algorithms, enhancing website visibility on Google and Bing.</li>
+  <li>Skill Set: HTML, CSS, JavaScript, PHP, MySQL, jQuery, AJAX, Bootstrap</li>
 </ul>
 
 <h4>2. Web Developer Intern</h4>
@@ -77,6 +78,7 @@
   <li>Created a responsive e-commerce website using HTML, CSS, and JavaScript, providing an intuitive user interface and seamless browsing experience.</li>
   <li>Developed a dynamic to-do list application, demonstrating problem-solving skills and task prioritization using agile methodologies.</li>
   <li>Engineered a Tic Tac Toe game with HTML, CSS, and JavaScript, showcasing proficiency in OOP, DOM manipulation, and responsive design.</li>
+  <li>Skill Set: HTML, CSS, JavaScript, PHP, MySQL, jQuery, AJAX, Bootstrap</li>
 </ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasu1601&show_icons=true&locale=en&layout=compact" alt="vasu1601" /></p>
