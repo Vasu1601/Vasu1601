@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vasum995@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T-2U_sfXut4jhmWi12jMqjgvI1PySRb9/view?usp=drivesdk](https://drive.google.com/file/d/1T-2U_sfXut4jhmWi12jMqjgvI1PySRb9/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15lsZUF96pvQJ6aHwD9ETXV0FrirlZEL6/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
