@@ -140,30 +140,24 @@ I'm actively integrating **AI/ML capabilities** into the platforms I build:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vasu1601&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasu1601&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Top Languages" height="180"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vasu1601&show_icons=true&theme=default&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=333333&bg_color=ffffff" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasu1601&show_icons=true&theme=default&hide_border=true&title_color=0e75b6&text_color=333333&bg_color=ffffff&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-</div>
+<br/>
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vasu1601&theme=default&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=333333&dates=666666" alt="GitHub Streak" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vasu1601&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br/><br/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vasu1601&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vasu1601&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vasu1601&theme=minimal&hide_border=true&color=0e75b6&line=0e75b6&point=0e75b6&area=true&area_color=dce9f5" alt="Activity Graph" />
 
 </div>
 
@@ -173,12 +167,18 @@ I'm actively integrating **AI/ML capabilities** into the platforms I build:
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/vassu-mehta-4b8813215/](https://www.linkedin.com/in/vassu-mehta-97a03a299/)" target="_blank">
+<a href="https://www.linkedin.com/in/vassu-mehta-97a03a299/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
+<a href="https://leetcode.com/u/Vassu1601/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
 <a href="mailto:vasum995@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/vasu1601" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
