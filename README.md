@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
 
 <h1 align="center">Hi 👋, I'm Vassu Mehta</h1>
-<h3 align="center">DevOps & Cloud Enthusiast | Backend Developer | MERN Learner</h3>
+<h3 align="center">DevOps & Cloud Enthusiast | Backend Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vasu1601&label=Profile%20views&color=0e75b6&style=flat" alt="vasu1601" />
