@@ -26,14 +26,14 @@
 - 💡 Building platforms that leverage **AI to enhance UX, automate tasks, and provide smart insights**
 - 💬 Ask me about **Linux, Git, AWS basics, PHP, Node.js, and backend development**
 - 🚀 I love building solutions that are practical, scalable, and easy to maintain
-- 📫 Reach me at **vasum995@gmail.com**
+- 📫 Reach me at **vasu49780@gmail.com**
 - ⚡ Fun fact: I debug faster with coffee ☕
 
 ---
 
 ### 🤖 AI Integration & Intelligent Platforms
 
-<img align="right" alt="AI" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+<img align="right" alt="AI" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 
 I'm actively integrating **AI/ML capabilities** into the platforms I build:
 
@@ -143,21 +143,21 @@ I'm actively integrating **AI/ML capabilities** into the platforms I build:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vasu1601&show_icons=true&theme=default&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=333333&bg_color=ffffff" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=vasu1601&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasu1601&show_icons=true&theme=default&hide_border=true&title_color=0e75b6&text_color=333333&bg_color=ffffff&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasu1601&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vasu1601&theme=default&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=333333&dates=666666" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vasu1601&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vasu1601&theme=minimal&hide_border=true&color=0e75b6&line=0e75b6&point=0e75b6&area=true&area_color=dce9f5" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vasu1601&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -175,7 +175,7 @@ I'm actively integrating **AI/ML capabilities** into the platforms I build:
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
-<a href="mailto:vasum995@gmail.com" target="_blank">
+<a href="mailto:vasu49780@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
