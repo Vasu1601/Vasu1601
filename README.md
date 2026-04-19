@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" alt="AI" width="300" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" />
 
 ### 🙋‍♂️ About Me
 
@@ -33,7 +33,7 @@
 
 ### 🤖 AI Integration & Intelligent Platforms
 
-<img align="right" alt="AI" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
+<img align="right" alt="AI" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 
 I'm actively integrating **AI/ML capabilities** into the platforms I build:
 
