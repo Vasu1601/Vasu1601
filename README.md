@@ -33,7 +33,7 @@
 
 ### 🤖 AI Integration & Intelligent Platforms
 
-<img align="right" alt="AI" width="300" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
+<img align="right" alt="AI" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
 
 I'm actively integrating **AI/ML capabilities** into the platforms I build:
 
