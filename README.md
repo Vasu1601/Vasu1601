@@ -173,7 +173,7 @@ I'm actively integrating **AI/ML capabilities** into the platforms I build:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vassu-mehta-4b8813215/" target="_blank">
+<a href="[https://www.linkedin.com/in/vassu-mehta-4b8813215/](https://www.linkedin.com/in/vassu-mehta-97a03a299/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:vasum995@gmail.com" target="_blank">
